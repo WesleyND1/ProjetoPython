@@ -19,8 +19,7 @@ Exercícios:
 - Questão 16 — Cálculo de salário líquido;
 - Questão 17 — Litros gastos em uma viagem;
 
-
-- Objetivo
+Objetivo
 Praticar conceitos fundamentais de Python, como:
 
 Entrada e saída de dados
